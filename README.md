@@ -9,4 +9,4 @@ Technologies used- Android Studio, Java, XML.
   <img src="demo_vedio.gif" />
 </p>
 
-Developed by- Khushi Garg (manasjidixit@gmail.com)
+Developed by- Manas Dixit (manasjidixit@gmail.com)
